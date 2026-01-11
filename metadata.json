@@ -1,0 +1,5 @@
+{
+  "name": "TutorFee",
+  "description": "A comprehensive fee collection and class management dashboard for tutors to track monthly and per-session payments.",
+  "requestFramePermissions": []
+}
